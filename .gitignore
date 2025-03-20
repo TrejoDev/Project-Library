@@ -1,2 +1,9 @@
-node_modules
+# Environment
 .env
+
+# Node
+/node_modules
+
+# System files
+.DS_Store
+Thumbs.db
